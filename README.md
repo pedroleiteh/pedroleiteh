@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Javascript/Java
 - 📫 How to reach me: contato.pedro77@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: He/Him
 
 <div align="center">
   <a href="https://github.com/PedroLeite14">
