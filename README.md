@@ -1,6 +1,6 @@
 ### Hi There! I'm Pedro Leite 🐦
 
-- 👨🏻‍💻 Fullstack Developer jr
+- 👨🏻‍💻 Frontend Developer jr
 
 - 🌱 I’m currently learning Javascript/Java
 
