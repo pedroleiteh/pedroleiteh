@@ -7,12 +7,6 @@
 - 📫 How to reach me: contato.pedro77@gmail.com
 
 - 😄 Pronouns: He/Him
-
-<div align="center">
-  <a href="https://github.com/pedroleiteh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroleiteh&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-</div>
-<div style="display: inline_block"><br>
   
   
   <h1>🛠 Tecnologias que eu domino</h1>
