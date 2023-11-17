@@ -1,8 +1,6 @@
 ### Hi There! I'm Pedro Leite 🐦
 
-- 👨🏻‍💻 Java Developer jr
-
-- 🌱 I’m currently learning Java/Spring
+- 👨🏻‍💻 Backend Developer jr
 
 - 📫 How to reach me: contato.pedro77@gmail.com
 
