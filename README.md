@@ -1,6 +1,6 @@
 ### Hi There! I'm Pedro Leite 🐦
 
-- 👨🏻‍💻 Backend Developer jr
+- 👨🏻‍💻 Java Developer jr
 
 - 📫 How to reach me: contato.pedro77@gmail.com
 
